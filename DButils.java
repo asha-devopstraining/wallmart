@@ -1,3 +1,3 @@
- This is Ashwini
-exit
+This is Ashwini
+Remove exit
 
